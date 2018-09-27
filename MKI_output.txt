@@ -1,0 +1,23 @@
+1537396854.4852383
+Using attention?: True
+
+Replacing uncom?: True
+
+training size   : 234  vocab size: 138  epochs: 15
+
+learning rate   : 0.001  word embed size: 10  hidden size: 300
+
+test size       : 23,  test loss: 0.5745911243292608
+
+cv size         : 26,  cv loss  : 1.8308021452008834
+
+
+
+1537397837.447767
+Using attention?: True
+Replacing uncom?: False
+training size   : 234  vocab size: 418  epochs: 15
+learning rate   : 0.001  word embed size: 10  hidden size: 300
+test size       : 23,  test loss: 1.5125476328185101
+cv size         : 26,  cv loss  : 3.8238211701866103
+
