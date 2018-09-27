@@ -370,7 +370,7 @@ def training(data, test_tensors, cv_tensors, vocab_size, epochs, dicti, max_leng
 
 
 print("test")
-TRAINING_EXAMPLES = 120000  # number of examples to train on (does 2x)
+TRAINING_EXAMPLES = 27000  # number of examples to train on (does 2x)
 EPOCHS =            35 # number of epochs to train for (currently no mini-batch, so all examples used)
 PERCENT_TEST =      30     # percent of training examples to test on
 PERCENT_CV =        30     # percent of examples to reserve for only testing
